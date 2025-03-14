@@ -1,7 +1,4 @@
-* {
-    
-    box-sizing: border-box;
-}
+
 
 a {
     text-decoration: none;
@@ -10,5 +7,19 @@ a {
 }
 
 body {
-    background-color: rgb(116, 122, 124);
+    background-image:  url("../image/bg-world-wide.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+    
+    
+}
+
+header{
+    position: fixed;
+    height: 20vh;
+}
+
+.navbar{
+    height: 20vh;
 }
