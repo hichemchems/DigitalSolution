@@ -51,3 +51,8 @@ header{
     font-size: 1.6rem;
     font-weight: 600;
 }
+
+.homeDiv a:hover{
+    color: #0af40a !important;
+    text-shadow: 1px -1px 4px rgb(6, 10, 8);
+}
